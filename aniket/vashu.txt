@@ -1,1 +1,10 @@
-hiii i am aniket jangid
+cd path/to/your/local/repo
+
+echo "Meri pehli file GitHub pe!" > aniket-file.txt
+
+git add aniket-file.txt
+
+git commit -m "Added new file aniket-file.txt 🚀"
+
+git push origin main
+
